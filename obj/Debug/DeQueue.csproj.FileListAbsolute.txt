@@ -1,0 +1,7 @@
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Debug\DeQueue.exe.config
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Debug\DeQueue.exe
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Debug\DeQueue.pdb
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Debug\DeQueue.csprojAssemblyReference.cache
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Debug\DeQueue.csproj.CoreCompileInputs.cache
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Debug\DeQueue.exe
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Debug\DeQueue.pdb

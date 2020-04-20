@@ -1,0 +1,17 @@
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Debug\DeQueue.exe.config
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Debug\DeQueue.exe
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Debug\DeQueue.pdb
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Debug\DeQueueClasses.dll
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Debug\DeQueueClasses.pdb
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Debug\DeQueueDriver.csprojAssemblyReference.cache
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Debug\DeQueueDriver.csproj.CoreCompileInputs.cache
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Debug\DeQueueDriver.csproj.CopyComplete
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Debug\DeQueue.exe
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Debug\DeQueue.pdb
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab2\DeQueue\bin\Debug\DeQueue.exe.config
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab2\DeQueue\bin\Debug\DeQueue.exe
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab2\DeQueue\bin\Debug\DeQueue.pdb
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab2\DeQueue\obj\Debug\DeQueueDriver.csprojAssemblyReference.cache
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab2\DeQueue\obj\Debug\DeQueueDriver.csproj.CoreCompileInputs.cache
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab2\DeQueue\obj\Debug\DeQueue.exe
+C:\Users\wills\OneDrive\Desktop\School\Data Structures\CS260DriversOnly\Lab2\DeQueue\obj\Debug\DeQueue.pdb

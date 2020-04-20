@@ -1,0 +1,10 @@
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Release\DeQueue.exe.config
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Release\DeQueue.exe
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Release\DeQueue.pdb
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Release\DeQueueClasses.dll
+D:\GitRepos\CS260\Lab2\DeQueue\bin\Release\DeQueueClasses.pdb
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Release\DeQueueDriver.csprojAssemblyReference.cache
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Release\DeQueueDriver.csproj.CoreCompileInputs.cache
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Release\DeQueueDriver.csproj.CopyComplete
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Release\DeQueue.exe
+D:\GitRepos\CS260\Lab2\DeQueue\obj\Release\DeQueue.pdb
